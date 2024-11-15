@@ -1,10 +1,18 @@
 {
 	"name": "One Swiss Cow",
 	"colors": {
-		"editor.background": "#4B8CA3",
-		"editor.foreground": "#4B8CA3",
-		"activityBarBadge.background": "#B7945C",
-		"sideBarTitle.foreground": "#B7945C"
+		"editor.background": "#2C3E50",
+		"editor.foreground": "#D8E6F3",
+		"sideBarTitle.foreground": "#4A4A41",
+		"sideBar.background": "#3d3b35",
+		// "sideBar.background": "#D8E6F3",
+		"activityBar.background": "#4A4A41",
+		"activityBar.foreground": "#FFFFFF",
+		"activityBarBadge.background": "#F39C12",
+		"titleBar.activeBackground": "#1E2A34",
+		"titleBar.inactiveBackground": "#4A4A41",
+		"titleBar.activeForeground": "#FFFFFF",
+		"titleBar.inactiveForeground": "#A0A0A0",
 	},
 	"tokenColors": [
 		{
@@ -15,7 +23,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#89B8E3"
 			}
 		},
 		{
@@ -519,7 +527,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#89B8E3"
 			}
 		},
 		{
@@ -573,7 +581,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#89B8E3"
 			}
 		},
 		{
@@ -582,7 +590,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#89B8E3"
 			}
 		},
 		{
@@ -602,7 +610,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#89B8E3"
 			}
 		},
 		{
@@ -612,7 +620,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#89B8E3"
 			}
 		},
 		{
