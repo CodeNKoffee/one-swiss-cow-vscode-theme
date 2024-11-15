@@ -1,0 +1,21 @@
+{
+  "name": "one-swiss-cow",
+  "displayName": "One Swiss Cow",
+  "description": "An inspired color palette crafted from the cows of the Swiss Alps, wrapped in a whimsical tale straight from the heart of a mountain farmer. Step into a coding experience that feels as refreshing as an alpine breeze, with colors that moo-ve you.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Swiss Cow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Swiss Cow-color-theme.json"
+      }
+    ]
+  }
+}
