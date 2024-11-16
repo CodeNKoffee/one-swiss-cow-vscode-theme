@@ -7,7 +7,7 @@
     "editor.foreground": "#E8E9F3",          // Fresh milk white
     "editor.lineHighlightBackground": "#363B5E", // Subtle highlight
     "editor.selectionBackground": "#4A5089",  // Mountain shadow
-    "editor.inactiveSelectionBackground": "#3A4069",
+    "editor.inactiveSelectionBackground": "#3a4069ee",
     
     // Sidebar and activity bar
     "activityBar.background": "#222537",     // Darker evening sky
